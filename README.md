@@ -12,7 +12,7 @@ Support for the following package managers (more coming soon):
 * Gem (Ruby)
 * Hex (Elixir)
 
-![Screenshot](https://raw.githubusercontent.com/truenorth/chrome-github-boxcutter/master/screenshot_small.png)
+![Screenshot](https://raw.githubusercontent.com/talkersoft/chrome-github-boxcutter/master/screenshot_small.png)
 
 ### [Download it](https://chrome.google.com/webstore/detail/github-boxcutter/knapnimomamjogbajmmoefhopnebjbff)
 

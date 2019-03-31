@@ -1,11 +1,11 @@
 {
-  "name": "github-boxcutter",
+  "name": "github-framebuster",
   "version": "0.0.5",
   "description": "Github.com package manifest enhancements",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/truenorth/github-boxcutter.git"
+    "url": "http://github.com/talkersoft/github-framebuster.git"
   },
   "keywords": [
     "github",
@@ -15,9 +15,9 @@
   "author": "Mike North <michael.l.north@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/truenorth/github-boxcutter/issues"
+    "url": "https://github.com/talkersoft/github-framebuster/issues"
   },
-  "homepage": "https://github.com/truenorth/github-boxcutter",
+  "homepage": "https://github.com/talkersoft/github-framebuster",
   "dependencies": {
     "jquery": "^3"
   }

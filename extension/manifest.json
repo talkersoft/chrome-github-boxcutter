@@ -1,19 +1,16 @@
 {
-  "name": "Boxcutter",
+  "name": "FrameBuster",
   "description": "Better package manifests on Github",
-  "version": "9",
+  "version": "0.1",
   "manifest_version": 2,
-  "permissions": [
-    "https://registry.npmjs.org/*",
-    "https://rubygems.org/*",
-    "https://hex.pm/*",
-    "https://bower.herokuapp.com/*",
-    "https://packagist.org/*"
-  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [],
   "content_scripts": [
     {
       "matches": [
-        "https://github.com/*"
+        "<all_urls>"
       ],
       "js": [
         "jquery.min.js",

@@ -1,4 +1,4 @@
-EXTNAME = "chrome-github-boxcutter"
+EXTNAME = "chrome-github-framebuster"
 CHROME = /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome
 
 all: crx
